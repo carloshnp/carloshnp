@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Carlos Pereira</h1>
 <h3 align="center">A curious and passionate web developer from Brazil, with an emphasis on front-end development.</h3>
 
-<div align="center" display="flex"> 
-  ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=carloshnpwork@gmail.com&logoColor=white})
+<div align="center" display="flex">
+  <a href="mailto:carloshnp@gmail.com">
+    <img src="https://img.shields.io/badge/carloshnpwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carloshnp/">
+    <img src="https://img.shields.io/badge/carloshnp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/226jt3qnwzp5ovcnelub5gzmy?si=e142b80689614c76">
+    <img src="https://img.shields.io/badge/Carlos Pereira-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshnp&label=Profile%20views&color=0e75b6&style=flat" alt="carloshnp" /> </p>
 
 - 🌱 I’m currently learning: **Rust, Remix.js, NestJS and Three.js**
 
