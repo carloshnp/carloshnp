@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Carlos Pereira</h1>
 <h3 align="center">A curious and passionate web developer from Brazil, with an emphasis on front-end development.</h3>
 
+<div align="center" display="flex"> 
+  ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=carloshnpwork@gmail.com&logoColor=white})
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshnp&label=Profile%20views&color=0e75b6&style=flat" alt="carloshnp" /> </p>
 
 - 🌱 I’m currently learning: **Rust, Remix.js, NestJS and Three.js**
