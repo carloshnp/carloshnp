@@ -13,9 +13,9 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning: **Rust, Remix.js, NestJS and Three.js**
+- 🌱 I’m currently learning: **Rust, Dash Plot.ly, Django and Three.js**
 
-- 💬 Ask me about: **React, TypeScript and Rust**
+- 💬 Ask me about: **UX Design, React, Remix.js, NestJS TypeScript and Rust**
 
 - 📫 How to reach me: **carloshnpwork@gmail.com**
 
